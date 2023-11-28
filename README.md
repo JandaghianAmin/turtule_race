@@ -5,11 +5,25 @@ this is 2 python file for turtule class.
 
 # 1- my_turtule 
   just use:
+```
   w -> to go forward
+```
+
+```
   s -> to go backward
-  d -> to turn right 
+```
+
+```
+  d -> to turn right
+```
+
+```
   a -> to turn left
+```
+
+```
   c -> clear
+```
 
 # 2- turtule race
 Welcome to the thrilling world of Turtle Race Game! 
